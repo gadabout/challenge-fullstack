@@ -1,6 +1,6 @@
 # Full-Stack Take-Home Challenge
 
-![peek-graphql-ember](https://gist.github.com/MartinBeuriot/6e208cd6645066547de9c7b96b9fad86/raw/fb812b50edc8b4d6a8644b1956239672a373175a/fs-challenge.png)
+![peek-graphql-ember](https://i.postimg.cc/QChDPddM/fs-challenge.png)
 
 At Peek, we build software for tour and activity operators to run their businesses. One essential feature to almost all of our operators on PeekPro is the back office calendar where they can go to schedule activities, view rental bookings and see how many of their guests are arriving in a given day, week, or month.
 
